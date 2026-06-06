@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ZzZ202ke/ZzZ202ke/blob/main/a83fb4fc6d3689aff622bd69af2301f8.jpg" width="100%">
+<img src="https://githubusercontent.com" width="100%">
 <h1>:snake: Python Learner :snake:</h1>
 
 <blockquote>"Пишу код, который работает только на моей машине." :tools:</blockquote>
@@ -16,6 +16,7 @@
 <h3>🧰 Мой стек и инструменты:</h3>
 <p>
   <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="VS Code" />
 </p>
 
