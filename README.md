@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/ZzZ202ke/ZzZ202ke/blob/main/a83fb4fc6d3689aff622bd69af2301f8.jpg" width="100%">
+<h1>:snake: Python Learner :snake:</h1>
 
-<!--
-**ZzZ202ke/ZzZ202ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<blockquote>"Пишу код, который работает только на моей машине." :tools:</blockquote>
 
-Here are some ideas to get you started:
+<p>
+<b>:hourglass: Моя шкала активности:</b><br>
+Изучение Python: <code>██████████ 100%</code><br>
+Желание учиться: <code>█░░░░░░░░░ 10%</code><br>
+Прокрастинация: <code>████████████ 120%</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>:eyes: Посмотреть мои секретные проекты</b></summary>
+<p>Тут пока ничего нет, я слишком ленив. Вернись позже! :sleeping_accommodation:</p>
+</details>
+</div>
