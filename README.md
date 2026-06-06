@@ -16,7 +16,6 @@
 <h3>🧰 Мой стек и инструменты:</h3>
 <p>
   <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="VS Code" />
 </p>
 
