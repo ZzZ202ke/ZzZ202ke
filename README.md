@@ -1,5 +1,5 @@
 <p align="center">
-  Inexperienced programmer
+  <font size="3"><i>Inexperienced programmer<i>
   <br><br>
   <img src="https://github.com/ZzZ202ke/ZzZ202ke/blob/main/g.gif" width="600" /> 
   <br><br>
